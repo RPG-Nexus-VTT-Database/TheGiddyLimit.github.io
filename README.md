@@ -2,9 +2,7 @@
 
 Visit the [main site](https://5e.tools/index.html) or go to the unofficial GitHub [mirror](index.html).
 
-[Join the 5etools Discord here!](https://discord.gg/nGvRCDs)
-
-[Support us on Patreon](https://www.patreon.com/bePatron?u=22018559)
+This fork will be focused on providing OGC content for all VTT's and playstyles with a focus on MapTool by RPTools.  Any non OGC or SRD content will be purged as this site is rebuilt
 
 ## Help and Support
 
